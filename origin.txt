@@ -1,0 +1,96 @@
+Uri: https://raquel-dottle.myportfolio.com/
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\index.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/ux-testing
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\ux-testing.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/dist/css/main.css
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\dist\css\main.css
+Content Type: text/css
+
+Uri: https://raquel-dottle.myportfolio.com/ui-mockups
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\ui-mockups.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/resume-1
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\resume-1.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/contact
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\contact.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/acu-sigchi-auto-encouraging-students
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\acu-sigchi-auto-encouraging-students.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/standardized-microwave-iv-prototype-ii
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\standardized-microwave-iv-prototype-ii.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/big-honking-report-iii-prototype
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\big-honking-report-iii-prototype.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/standardized-microwave-ii-wireframe
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\standardized-microwave-ii-wireframe.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/napkin-test
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\napkin-test.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/goms-testing-hci-final-project
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\goms-testing-hci-final-project.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/dist/js/main.js?cb=a2d71962ac5fdc27fa35738203bfa61564ff88cb
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\dist\js\main.js
+Content Type: application/javascript
+
+Uri: https://raquel-dottle.myportfolio.com/dist/js/main.js?cb=e373e6986c7d20a84561eb9b4d3298cd4234d3fe
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\dist\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://raquel-dottle.myportfolio.com/ethan-and-raquels-wedding
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\ethan-and-raquels-wedding.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/debt-management-tool
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\debt-management-tool.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/usaa-creative-design-internship
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\usaa-creative-design-internship.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/rmu-v-soundfaith-implementation
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\rmu-v-soundfaith-implementation.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/rapid-mockup-smart-tv
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\rapid-mockup-smart-tv.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/rapid-mockup-utunes
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\rapid-mockup-utunes.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/rapid-mockup-chapel-app
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\rapid-mockup-chapel-app.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/hci-i-final-project-nickel-time-it
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\hci-i-final-project-nickel-time-it.html
+Content Type: text/html
+
+Uri: https://raquel-dottle.myportfolio.com/dist/js/main.js?cb=b2cbee818b3a696d2751071fa71531d956451154
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\dist\js\main-2.js
+Content Type: application/javascript
+
+Uri: https://raquel-dottle.myportfolio.com/dist/js/main.js?cb=86cc2562bd5ce8d2cd6f00174126b8b9354df9d2
+File Name: C:\Users\Raquel\Documents\Job Searching\portfolio dump\raquel-dottle.myportfolio.com\dist\js\main-3.js
+Content Type: application/javascript
+
